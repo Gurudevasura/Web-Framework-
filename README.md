@@ -1,5 +1,5 @@
 # Web-Framework- Django
-Part 1 (Development Basics):
+#Part 1 (Development Basics):
 Python virtual environment (pipenv, virtualenv, pyenv, poetry, uv (https://github.com/astral-sh/uv))
 
 Effective Python Book
@@ -14,11 +14,12 @@ Linux
 
 Using The Terminal/CMD/PowerShell
 
-Part 2 (Databases)
+#Part 2 (Databases)
 RDB (PostgreSQL, MySQL/MariaDB, SQLite)
 NoSQL (MongoDB, Redis)
 ORM (Object-Relational Mapper)
-Part 3 (Software Engineering)
+
+#Part 3 (Software Engineering)
 Conventional Commits
 Trunk-based Development (https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 Change Logs
@@ -37,7 +38,8 @@ Continues Integration (GitHub Actions, Jenkins, Travis-CI)
 pre-commit hooks (black, flake)
 .env files and environmental variables
 Logs, and Logging (For Example Sentry)
-Part 4 (Web)
+
+#Part 4 (Web)
 HTML, CSS, SASS, Javascript, Bootstrap and JQuery
 REST API
 Swagger
@@ -52,7 +54,8 @@ Authentication (session, basic, token and jwt token)
 Docker, docker-compose
 Postman
 Authentication vs Authorization
-Part 6 (Django)
+
+#Part 6 (Django)
 Good Resources:
 
 Two-Scoops with Django
@@ -112,7 +115,7 @@ Wagtail
 
 Django cms
 
-Part 7 (Advanced Concepts & Devops & Production):
+#Part 7 (Advanced Concepts & Devops & Production):
 Elastic Stack
 Caching with redis
 Asynchronous programming (celery, rabbit mq, django rq, Kafka)
@@ -123,7 +126,8 @@ Nginx
 Microservices
 Hosting (PAAS, SAAS, IAAS)
 System Design (a good book is System Design Interview - An Insider's Guide)
-Part 8 (Front-End Optional Miscellaneous)
+
+#Part 8 (Front-End Optional Miscellaneous)
 NPM
 Webpack
 SPA (Vue and Nuxt.js/React and Next.js/Angular)
